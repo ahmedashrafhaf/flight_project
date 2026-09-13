@@ -801,15 +801,6 @@ A prediction of delay does not guarantee that a flight will actually be delayed.
 
 The system should be considered a **decision-support and analytical tool**, not a replacement for operational aviation systems.
 
----
-
-# 👨‍💻 Author
-
-### Ahmed Ashraf
-
-**Data Science Student | Machine Learning Enthusiast**
-
-Egyptian Chinese University
 
 ---
 
